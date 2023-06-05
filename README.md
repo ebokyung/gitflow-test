@@ -1,13 +1,13 @@
 # gitflow-test
 
-main: 최종 project 배포
-development: 개발 배포용, Test
-code-review: 파트 별로 세부 기능을 개발하고 관리하는 곳
+- main: 최종 project 배포
+- development: 개발 배포용, Test
+- code-review: 파트 별로 세부 기능을 개발하고 관리하는 곳
 
-- branch naming
+- *branch naming*
   `Freature_id`
 
-- commit naming
+- *commit naming*
   Add: 새로운 기능 추가
   Fix: 버그 및 오류 수정(단순 수정 X)
   Docs: 문서 수정
